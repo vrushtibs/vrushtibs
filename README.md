@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-vrushti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/aakash--01629954/](https://www.linkedin.com/in/vrushti-bhadresh-shah-4097532b2/))]([https://www.linkedin.com/in/aakash--01629954/](https://www.linkedin.com/in/vrushti-bhadresh-shah-4097532b2/))
+[![Linkedin Badge](https://img.shields.io/badge/-vrushti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[https://www.linkedin.com/in/vrushti-bhadresh-shah-4097532b2/](https://www.linkedin.com/in/vrushti-bhadresh-shah-4097532b2/))](](https://www.linkedin.com/in/vrushti-bhadresh-shah-4097532b2/)](https://www.linkedin.com/in/vrushti-bhadresh-shah-4097532b2/))
 
 
 I'm
