@@ -1,6 +1,8 @@
 ### Hi Developers 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Vrushti%20Shah-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrushti-bhadresh-shah-4097532b2/)
+[![Email Badge](https://img.shields.io/badge/-vrushtibs@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:vrushtibs@gmail.com)
+
 
 
 I'm
